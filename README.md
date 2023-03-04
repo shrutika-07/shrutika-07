@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Student who loves exploring domains related to tech.
+## I'm a student who loves exploring domains related to tech.
 
 - 👨‍💻 I'm a Computer Engineering Student at Vishwakarma Institute of Technology, Pune.
 - 📚 Currently, I'm learning everything about Frontend and Backend technologies.
@@ -10,7 +10,7 @@
 
 ---
 
-##### Languages I use
+##### Languages I use:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Some of the technologies I have worked with
+##### Some of the technologies I have worked with:
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -32,4 +32,3 @@
 
 ---
 
-Credit: [Shrutika](https://github.com/shrutika-07)
