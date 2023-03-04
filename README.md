@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Shrutika!](https://github.com/shrutika-07)
+### Hey there, I'm Shrutika! 👋
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="center" >Connect with me 🤝 </h3>
+<h3 align="center" >Connect With Me 🤝 </h3>
 
 <p align="center">
 
